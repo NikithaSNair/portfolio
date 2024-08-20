@@ -2,7 +2,7 @@
 
 ## 👋 Welcome to my portfolio website! 
 
-This platform serves as a digital showcase of my professional journey, skills, projects, and achievements. Feel free to explore my portfolio and discover the projects I've worked on. From web development and design to digital marketing and beyond, each project represents a labor of love and a testament to my commitment to excellence.
+This platform serves as a digital showcase of my professional journey, skills, projects, and achievements. Feel free to explore my portfolio and discover the projects I've worked on. I've expressed my special interests in the field of game development, UI/UX etc, and is working on it..
 
 ## Demo
 
